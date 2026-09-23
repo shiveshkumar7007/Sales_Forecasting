@@ -1,0 +1,21 @@
+age_group,favorite_category,preferred_payment_method,preferred_shipping_type,satisfaction_flag,customer_count,avg_spend,avg_loyalty
+25-34,Outerwear,Venmo,"Next Day Air","High Satisfaction",1,100.00,0.367
+55+,Clothing,"Bank Transfer","Store Pickup",Neutral,1,100.00,0.426
+55+,Clothing,PayPal,"Free Shipping",Neutral,1,100.00,0.355
+18-24,Outerwear,Cash,Express,"High Satisfaction",1,100.00,0.664
+55+,Clothing,PayPal,Standard,"High Satisfaction",1,100.00,0.597
+35-44,Accessories,"Credit Card",Express,Neutral,1,100.00,0.595
+25-34,Outerwear,"Debit Card",Standard,"High Satisfaction",1,100.00,0.708
+55+,Clothing,"Debit Card","2-Day Shipping","High Satisfaction",1,100.00,0.51
+25-34,Accessories,PayPal,"2-Day Shipping","High Satisfaction",1,100.00,0.646
+18-24,Outerwear,"Credit Card","Store Pickup",Neutral,1,100.00,0.693
+45-54,Footwear,"Credit Card","Free Shipping","High Satisfaction",1,100.00,0.889
+18-24,Clothing,PayPal,"Next Day Air","High Satisfaction",1,100.00,0.363
+35-44,Clothing,Cash,Express,"Low Satisfaction",1,99.00,0.628
+55+,Footwear,Cash,"Free Shipping",Neutral,1,99.00,0.559
+35-44,Clothing,"Debit Card","Store Pickup","High Satisfaction",1,99.00,0.629
+35-44,Clothing,Venmo,"Store Pickup","Low Satisfaction",1,99.00,0.558
+45-54,Clothing,"Credit Card",Express,"High Satisfaction",1,99.00,0.677
+45-54,Footwear,PayPal,Standard,Neutral,1,99.00,0.701
+25-34,Outerwear,Cash,"2-Day Shipping","High Satisfaction",1,99.00,0.456
+45-54,Outerwear,PayPal,"Next Day Air","Low Satisfaction",1,99.00,0.673

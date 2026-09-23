@@ -1,0 +1,10 @@
+customer_segment,promo_dependency_segment,customer_count,avg_loyalty_score,avg_spend,avg_frequency
+"Premium Loyalist","Low Promo Dependency",70,0.762,90.43,35.1
+"Discount Loyalist","Highly Promo Dependent",45,0.751,79.58,44.8
+"Potential Loyalist","Low Promo Dependency",445,0.601,65.51,21.1
+"Potential Loyalist","Highly Promo Dependent",247,0.582,67.87,21.9
+"Occasional Customer","Low Promo Dependency",1509,0.442,57.35,15.2
+"Occasional Customer","Highly Promo Dependent",549,0.441,78.80,16.3
+"Bargain Hunter","Highly Promo Dependent",733,0.356,38.33,15.8
+"At Risk","Low Promo Dependency",199,0.345,58.50,19.5
+"At Risk","Highly Promo Dependent",66,0.328,79.64,14.4

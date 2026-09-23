@@ -1,0 +1,9 @@
+promo_dependency_segment,value_tier,customer_count,avg_spend,avg_frequency,avg_loyalty,avg_satisfaction
+"Highly Promo Dependent","Premium Value",371,90.95,17.1,0.507,3.77
+"Highly Promo Dependent","High Value",425,70.91,17.9,0.45,3.77
+"Highly Promo Dependent","Medium Value",403,49.90,18.1,0.409,3.66
+"Highly Promo Dependent","Low Value",441,29.42,17.4,0.359,3.76
+"Low Promo Dependency","Premium Value",545,91.15,17.4,0.544,3.79
+"Low Promo Dependency","High Value",550,71.14,16.7,0.506,3.8
+"Low Promo Dependency","Medium Value",560,50.08,18.6,0.451,3.68
+"Low Promo Dependency","Low Value",568,29.61,16.9,0.403,3.76

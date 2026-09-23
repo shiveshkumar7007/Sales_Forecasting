@@ -1,0 +1,13 @@
+value_tier,satisfaction_flag,preferred_shipping_type,customer_count,avg_spend,avg_frequency,avg_past_purchases,avg_discount_dependency
+"Premium Value","Low Satisfaction",Express,30,90.30,20.3,24.2,0.467
+"Premium Value","Low Satisfaction","2-Day Shipping",29,90.55,18.3,24.3,0.414
+"High Value","Low Satisfaction","Store Pickup",28,72.07,18.2,29.7,0.464
+"Premium Value","Low Satisfaction","Next Day Air",28,91.71,18.4,19.8,0.5
+"Premium Value","Low Satisfaction","Store Pickup",27,92.04,13.9,25,0.444
+"High Value","Low Satisfaction","Free Shipping",27,70.63,15.1,20.9,0.37
+"High Value","Low Satisfaction","Next Day Air",26,70.27,15.5,23.8,0.5
+"Premium Value","Low Satisfaction","Free Shipping",25,91.44,21.1,25.8,0.36
+"High Value","Low Satisfaction","2-Day Shipping",24,69.17,17.8,30.2,0.375
+"High Value","Low Satisfaction",Express,22,70.86,17.9,27.4,0.318
+"High Value","Low Satisfaction",Standard,22,70.64,16.2,26.3,0.591
+"Premium Value","Low Satisfaction",Standard,18,89.11,17.8,28.9,0.333

@@ -1,0 +1,11 @@
+location,total_customers,high_promo_spend,total_revenue,promo_revenue_share_pct,promo_group_avg_loyalty
+Indiana,79,2633,4655,56.56,0.413
+Oregon,73,2240,4160,53.85,0.436
+Iowa,68,2209,4181,52.83,0.463
+Oklahoma,74,2182,4279,50.99,0.42
+"West Virginia",79,2565,5045,50.84,0.427
+Hawaii,64,1874,3712,50.48,0.475
+"South Carolina",75,2187,4374,50.00,0.403
+Wisconsin,73,1957,4015,48.74,0.376
+Massachusetts,71,2083,4299,48.45,0.428
+Delaware,85,2247,4685,47.96,0.419

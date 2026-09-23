@@ -1,0 +1,21 @@
+location,total_customers,avg_spend,avg_loyalty,avg_discount_dependency,premium_customers,premium_pct,top_category
+Alaska,72,67.60,0.503,0.403,25,34.7,Clothing
+Pennsylvania,74,66.57,0.489,0.446,20,27.0,Clothing
+Arizona,65,66.55,0.493,0.338,20,30.8,Clothing
+"West Virginia",79,63.86,0.448,0.481,24,30.4,Accessories
+Washington,73,63.33,0.455,0.438,20,27.4,Clothing
+Nevada,85,63.28,0.467,0.459,25,29.4,Clothing
+"North Dakota",82,63.04,0.438,0.451,24,29.3,Clothing
+Utah,70,62.17,0.462,0.457,20,28.6,Clothing
+"Rhode Island",62,62.00,0.458,0.387,18,29.0,Clothing
+Michigan,72,62.00,0.463,0.389,22,30.6,Clothing
+Tennessee,77,61.97,0.474,0.364,22,28.6,Clothing
+Virginia,75,61.91,0.459,0.36,24,32.0,Clothing
+"New Mexico",81,61.90,0.463,0.444,20,24.7,Accessories
+Iowa,68,61.49,0.474,0.515,20,29.4,Accessories
+Texas,76,61.34,0.438,0.355,22,28.9,Clothing
+Mississippi,80,61.04,0.458,0.475,17,21.3,Clothing
+Illinois,91,60.85,0.47,0.396,24,26.4,Clothing
+"North Carolina",78,60.79,0.463,0.449,18,23.1,Clothing
+Wyoming,71,60.69,0.482,0.423,17,23.9,Clothing
+Arkansas,78,60.65,0.463,0.462,22,28.2,Clothing

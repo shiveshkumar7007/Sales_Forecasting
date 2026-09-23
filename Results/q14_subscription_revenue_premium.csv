@@ -1,0 +1,9 @@
+favorite_category,subscription_status,customer_count,avg_revenue,avg_frequency
+Accessories,Subscribed,327,58.71,18.1
+Accessories,"Not Subscribed",902,60.18,17.2
+Clothing,Subscribed,447,59.75,17.8
+Clothing,"Not Subscribed",1271,60.00,17.2
+Footwear,Subscribed,169,60.37,17.7
+Footwear,"Not Subscribed",425,60.18,18
+Outerwear,Subscribed,90,58.54,19.4
+Outerwear,"Not Subscribed",232,56.61,17

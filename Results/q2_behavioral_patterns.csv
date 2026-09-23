@@ -1,0 +1,5 @@
+value_tier,avg_past_purchases,avg_frequency,avg_subscription,avg_rating,avg_loyalty,avg_spend,total_customers
+"Premium Value",25.5,17.3,0.264,3.78,0.529,91.07,916
+"High Value",25.5,17.2,0.268,3.79,0.482,71.04,975
+"Medium Value",25.2,18.4,0.269,3.67,0.433,50.01,963
+"Low Value",25.1,17.1,0.269,3.76,0.384,29.53,1009
